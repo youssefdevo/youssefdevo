@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @youssefdevo
-- 👀 I’m interested in programing and problem solving
-- 🌱 I’m currently Comptetive Programmer
-- 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me y556217@gmail.com
+# Hi there, I’m Youssef Nasser! 👋
 
-<!---
-youssefdevo/youssefdevo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Passionate Software Engineer & Problem Solver**  
+🌐 **Competitive Programmer | CPP & Java Enthusiast**  
+📫 **Reach me at** [YoussefNasserSWE@gmail.com](mailto:YoussefNasserSWE@gmail.com)
+
+---
+
+### 👨‍💻 About Me
+- 🌱 I’m currently leveling up my skills in competitive programming and backend development using **Spring Boot**.
+- 💡 **Excited to collaborate** on impactful projects in software engineering, backend systems, or open-source initiatives.
+- 🎯 My goal is to continuously improve, explore new technologies, and find efficient solutions to complex problems.
+
+### 👀 My Interests
+- **Programming Languages**: Proficient in **Java & CPP** and exploring new paradigms.
+- **Software Design**: Love digging into OOP, SOLID principles, and design patterns.
+- **Competitive Programming**: Tackling challenges on platforms like **Codeforces** (Specialist level) to refine my problem-solving skills.
+
+### ⚙️ Current Focus
+- 🔹 Preparing for technical interviews to hit my first job.
+
+---
+
+Let's connect and build something amazing together!
