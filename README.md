@@ -16,9 +16,6 @@
 - **Software Design**: Love digging into OOP, SOLID principles, and design patterns.
 - **Competitive Programming**: Tackling challenges on platforms like **Codeforces** (Specialist level) to refine my problem-solving skills.
 
-### ⚙️ Current Focus
-- 🔹 Preparing for technical interviews to hit my first job.
-
 ---
 
 Let's connect and build something amazing together!
